@@ -14,7 +14,7 @@ const Footer = () => {
           {/* Company Info */}
           <div className="space-y-4">
             <h3 className="text-2xl font-bold bg-gradient-to-r from-red-500 to-red-800 bg-clip-text text-transparent">
-              CHIOX
+              Compnay Name
             </h3>
             <p className="text-gray-400 max-w-xs">
               Transforming ideas into powerful software solutions that drive business growth and innovation.
@@ -85,9 +85,9 @@ const Footer = () => {
             <h4 className="text-white font-semibold mb-4">Contact Us</h4>
             <ul className="space-y-4">
               <li>
-                <a href="mailto:contact@chiox.com" className="flex items-center text-gray-400 hover:text-red-500 transition-colors duration-300">
+                <a href="mailto:contact@Compnay Name.com" className="flex items-center text-gray-400 hover:text-red-500 transition-colors duration-300">
                   <Mail size={20} className="mr-3" />
-                  contact@chiox.com
+                  contact@Compnay Name.com
                 </a>
               </li>
               <li>
@@ -112,7 +112,7 @@ const Footer = () => {
         <div className="border-t border-gray-800 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <p className="text-gray-400 text-sm">
-              © {currentYear} CHIOX. All rights reserved.
+              © {currentYear} Compnay Name. All rights reserved.
             </p>
             <div className="flex space-x-6">
               <a href="#" className="text-gray-400 hover:text-red-500 text-sm transition-colors duration-300">

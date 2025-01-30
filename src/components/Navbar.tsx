@@ -16,7 +16,7 @@ const Navbar: React.FC<NavbarProps> = ({ isScrolled }) => {
         <div className="flex items-center justify-between h-16">
           <div className="flex-shrink-0">
             <span className="text-2xl font-bold bg-gradient-to-r from-red-500 to-red-800 bg-clip-text text-transparent">
-              CHIOX
+              Compnay Name
             </span>
           </div>
           

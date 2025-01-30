@@ -37,7 +37,7 @@ const About = () => {
                 </span>
               </h2>
               <p className="text-gray-400 leading-relaxed">
-                Since our inception, CHIOX has been at the forefront of digital transformation, 
+                Since our inception, Compnay Name has been at the forefront of digital transformation, 
                 helping businesses navigate the ever-evolving technology landscape. Our passion 
                 for innovation and commitment to excellence drives us to deliver exceptional 
                 solutions that empower our clients to succeed in the digital age.

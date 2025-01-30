@@ -6,19 +6,19 @@ const testimonials = [
     name: "Sarah Johnson",
     role: "CEO, TechStart",
     image: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=150&q=80",
-    quote: "CHIOX transformed our business with their innovative solutions. Their team's expertise and dedication exceeded our expectations.",
+    quote: "Compnay Name transformed our business with their innovative solutions. Their team's expertise and dedication exceeded our expectations.",
   },
   {
     name: "Michael Chen",
     role: "CTO, InnovateCorp",
     image: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&w=150&q=80",
-    quote: "Working with CHIOX was a game-changer. Their attention to detail and technical excellence delivered outstanding results.",
+    quote: "Working with Compnay Name was a game-changer. Their attention to detail and technical excellence delivered outstanding results.",
   },
   {
     name: "Emily Rodriguez",
     role: "Product Manager, DataFlow",
     image: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?auto=format&fit=crop&w=150&q=80",
-    quote: "The team at CHIOX brought our vision to life with their creative approach and cutting-edge technology solutions.",
+    quote: "The team at Compnay Name brought our vision to life with their creative approach and cutting-edge technology solutions.",
   }
 ];
 
